@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+td,th{
+    padding: 10px;
+    margin: 5px;
+    border-width: 1px;
+}
+
+button{
+    /* border:1px solid grey; */
+    /* background-color: hotpink; */
+    /* color: #ffffff; */
+    margin: 5px;
+    padding: 5px;
+}
